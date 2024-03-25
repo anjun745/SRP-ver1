@@ -1,0 +1,1 @@
+An old project testing a simplified implementation of a neural network via self-improving programs.
